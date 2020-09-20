@@ -76,7 +76,7 @@ msgid "CATEGORY_DESC_stolen"
 msgstr "Misuse of spin-off function (stolen)"
 
 msgid "CATEGORY_NAME_spam"
-msgstr "Spam"
+msgstr "スパム"
 
 msgid "CATEGORY_DESC_spam"
 msgstr "Spam (no meaningful content)"
@@ -118,7 +118,7 @@ msgid "CATEGORY_DESC_misplaced_rp"
 msgstr "Roleplay posted to non-roleplay channel"
 
 msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
+msgstr "ドラッグ"
 
 msgid "CATEGORY_DESC_drugs"
 msgstr "Substance abuse or drug references"
